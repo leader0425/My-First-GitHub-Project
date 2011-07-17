@@ -2,9 +2,6 @@ Hello
 I'm Leader!
 
 <<<<<<< HEAD
-TestBranch1 was created at 8 a.m. 2011/07/17.
-
-Test at 1 p.m. 2011/07/17
 =======
-TestBranch2 was created at 1 p.m. 2011/07/17.
->>>>>>> TestBranch2
+TestBranch3 was created at 2 p.m. 2011/07/17.
+>>>>>>> TestBranch3
